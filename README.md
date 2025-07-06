@@ -1,0 +1,1 @@
+A **bulb ON/OFF project using Arduino and a relay** allows you to control an AC bulb using Arduino. The **relay acts like a switch**, turning the bulb ON or OFF based on signals from the Arduino. It's useful for **home automation** and **smart lighting** projects.
